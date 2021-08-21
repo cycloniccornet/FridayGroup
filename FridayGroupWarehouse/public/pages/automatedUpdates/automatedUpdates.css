@@ -1,0 +1,14 @@
+#booking_table th {
+    background-color: black;
+    color: cornflowerblue;
+}
+
+#booking_table {
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-bottom: 5%;
+}
+
+#booking_table tr {
+    border-top: 1px solid grey;
+}
